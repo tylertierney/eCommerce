@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/tylertierney/eCommerce/static/css/main.b3f753d3.chunk.css",
-    "main.js": "/tylertierney/eCommerce/static/js/main.828617ca.chunk.js",
-    "main.js.map": "/tylertierney/eCommerce/static/js/main.828617ca.chunk.js.map",
-    "runtime-main.js": "/tylertierney/eCommerce/static/js/runtime-main.a1c51507.js",
-    "runtime-main.js.map": "/tylertierney/eCommerce/static/js/runtime-main.a1c51507.js.map",
-    "static/js/2.29b20e0b.chunk.js": "/tylertierney/eCommerce/static/js/2.29b20e0b.chunk.js",
-    "static/js/2.29b20e0b.chunk.js.map": "/tylertierney/eCommerce/static/js/2.29b20e0b.chunk.js.map",
-    "index.html": "/tylertierney/eCommerce/index.html",
-    "static/css/main.b3f753d3.chunk.css.map": "/tylertierney/eCommerce/static/css/main.b3f753d3.chunk.css.map",
-    "static/js/2.29b20e0b.chunk.js.LICENSE.txt": "/tylertierney/eCommerce/static/js/2.29b20e0b.chunk.js.LICENSE.txt"
+    "main.css": "/eCommerce/static/css/main.b3f753d3.chunk.css",
+    "main.js": "/eCommerce/static/js/main.828617ca.chunk.js",
+    "main.js.map": "/eCommerce/static/js/main.828617ca.chunk.js.map",
+    "runtime-main.js": "/eCommerce/static/js/runtime-main.9fa38a24.js",
+    "runtime-main.js.map": "/eCommerce/static/js/runtime-main.9fa38a24.js.map",
+    "static/js/2.7731f1b8.chunk.js": "/eCommerce/static/js/2.7731f1b8.chunk.js",
+    "static/js/2.7731f1b8.chunk.js.map": "/eCommerce/static/js/2.7731f1b8.chunk.js.map",
+    "index.html": "/eCommerce/index.html",
+    "static/css/main.b3f753d3.chunk.css.map": "/eCommerce/static/css/main.b3f753d3.chunk.css.map",
+    "static/js/2.7731f1b8.chunk.js.LICENSE.txt": "/eCommerce/static/js/2.7731f1b8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a1c51507.js",
-    "static/js/2.29b20e0b.chunk.js",
+    "static/js/runtime-main.9fa38a24.js",
+    "static/js/2.7731f1b8.chunk.js",
     "static/css/main.b3f753d3.chunk.css",
     "static/js/main.828617ca.chunk.js"
   ]
