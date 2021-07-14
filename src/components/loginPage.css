@@ -1,0 +1,24 @@
+.loginPage {
+  position: relative;
+  padding-top: 10vh;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+p {
+  font-size: 0.9rem;
+}
+
+input:focus {
+  outline: none;
+}
